@@ -13,5 +13,6 @@ class TicketChoises:
         return (
             ("open", "Open"),
             ("in_service", "In Service"),
+            ("waiting_user", "Waiting User"),
             ("resolved", "Resolved"),
         )
