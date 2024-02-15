@@ -26,7 +26,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    "app.tickets",
+    "apps.tickets",
     "apps.core",
     "rest_framework",
     "django.contrib.admin",
